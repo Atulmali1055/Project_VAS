@@ -1,0 +1,12 @@
+{
+  "provider": "elevenlabs",
+  "api_key": "YOUR_ELEVENLABS_API_KEY",
+  "voice_id": "EXAVITQu4vr4xnSDxMaL", 
+  "model": "eleven_monolingual_v1",
+  "voice_settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.85,
+    "style": 0.5,
+    "use_speaker_boost": true
+  }
+}

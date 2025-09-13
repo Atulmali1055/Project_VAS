@@ -1,0 +1,10 @@
+{
+  "provider": "coqui",
+  "tts_model": "tts_models/en/vctk/vits",
+  "speaker": "p243",
+  "settings": {
+    "noise_scale": 0.33,
+    "length_scale": 1.0,
+    "noisew": 0.5
+  }
+}
